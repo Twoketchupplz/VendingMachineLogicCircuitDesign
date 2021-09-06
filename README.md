@@ -39,11 +39,12 @@ Altera사의 MAX+PLUS II를 활용해 가상의 자판기를 구현한다.
 
 ### 역할분담
 <img src = "Slide/슬라이드31.JPG">
-팀원
- - [송근영](Slide/슬라이드28.JPG)
- - [이성원](Slide/슬라이드29.JPG)
- - [임현강](Slide/슬라이드30.JPG)
- - [홍혜선](Slide/슬라이드32.JPG)
+
+- 다른 팀원
+    - [송근영](Slide/슬라이드28.JPG)
+    - [이성원](Slide/슬라이드29.JPG)
+    - [임현강](Slide/슬라이드30.JPG)
+    - [홍혜선](Slide/슬라이드32.JPG)
 
 
 
